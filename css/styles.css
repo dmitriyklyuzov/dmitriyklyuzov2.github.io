@@ -1,0 +1,33 @@
+body{
+	color:white;
+}
+.main-content{
+	min-height: 70%;
+	background: #fff;
+	background-position: center 10%;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('img/jumbotron/pantheon.jpg');
+	/*padding-top: 20em;*/
+	width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    position:fixed;
+}
+
+.jumbotron{
+	background: transparent;
+	padding-top:2em;
+}
+
+.color-white{
+	color:white;
+}
+
+.navbar-inverse, .navbar-inverse .navbar-toggle, .navbar-inverse .navbar-toggle:hover {
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.navbar-inverse .navbar-nav li a, .navbar-inverse .navbar-header a{
+	color: white;
+}

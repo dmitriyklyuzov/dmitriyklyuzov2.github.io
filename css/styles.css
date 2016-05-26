@@ -2,7 +2,7 @@ body{
 	color:white;
 }
 .main-content{
-	min-height: 70%;
+	min-height: 100vh;
 	background: #fff;
 	background-position: center 10%;
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('img/jumbotron/pantheon.jpg');

@@ -16,7 +16,9 @@ body{
 
 .jumbotron{
 	background: transparent;
-	padding-top:100px;
+	/*padding-top:100px;*/
+	transform:translateY(-50%);
+	width: 100%;
 }
 
 .color-white{
